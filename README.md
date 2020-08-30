@@ -6,13 +6,14 @@ The purpose of this project was to analyze different data aspects related to the
 
 1) determine the number of retiring employees per title
 2) identify employees who are eligible to participate in a mentorship program
+3) help prepare for a "silver tsunami" or big increase in retirements.
 
 # Program 
 * pgAdmin (SQL) and Microsoft Excel 
 
 # Results 
 
-Based on the analysis we perfomed, we compiled the following [counts by title](https://github.com/Stewartsl17/Pewlett-Hackard-Analysis/blob/master/Data/retiring_titles.csv) of who will be eligible for retirement:
+Based on the analysis we performed, we compiled the following [counts by title](https://github.com/Stewartsl17/Pewlett-Hackard-Analysis/blob/master/Data/retiring_titles.csv) of who will be eligible for retirement:
 
 * 29,414 Senior Engineers
 * 28,254 senior staff
@@ -26,4 +27,7 @@ Furthermore, based on the directive to see who would be [eligible](https://githu
 
 # Summary
 
-Based on the analysis we performed, there are some concerns and potential additional queries that we could do to provide more information. One concern is that there is a incredibly large amount of retirement-eligible employees that are senior members (Engineers and Staff), which amounts to 64%.  
+Based on the analysis we performed, there are some concerns and potential additional queries that we could do to provide more information. One concern is that there is an incredibly large number of retirement-eligible employees that are senior members (Engineers and Staff), which amounts to 64%. However, only about 1,500 are eligible to become mentors. One additional query we could do would be to tweak the mentorship eligibility criteria and see how many additional employees they could add to better offset the "silver tsunami". 
+
+A second additional would be to look into how many employees are able to mentor based on role instead of age. Looking at the first additional query from a different perspective, we could see if there are ways in which PH could improve their new mentorship program.
+
