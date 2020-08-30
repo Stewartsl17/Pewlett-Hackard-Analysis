@@ -7,6 +7,9 @@ The purpose of this project was to analyze different data aspects related to the
 1) determine the number of retiring employees per title
 2) identify employees who are eligible to participate in a mentorship program
 
+# Program 
+* pgAdmin (SQL) and Microsoft Excel 
+
 # Results 
 
 Based on the analysis we perfomed, we compiled the following [counts by title](https://github.com/Stewartsl17/Pewlett-Hackard-Analysis/blob/master/Data/retiring_titles.csv) of who will be eligible for retirement:
@@ -19,9 +22,8 @@ Based on the analysis we perfomed, we compiled the following [counts by title](h
 * 1761 Assistant Engineers
 * 2 Managers 
 
-Furthermore, based on the directive to see who would be eligible for joining a mentoring program, we found that 1,549 employees that are the verge of retiring fit the criteria for the program.
-
-
+Furthermore, based on the directive to see who would be [eligible](https://github.com/Stewartsl17/Pewlett-Hackard-Analysis/blob/master/Data/mentorship_eligibility.csv) for joining a mentoring program, we found that 1,549 employees that are the verge of retiring fit the criteria for the program.
 
 # Summary
+
 
