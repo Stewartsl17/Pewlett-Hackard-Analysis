@@ -26,4 +26,4 @@ Furthermore, based on the directive to see who would be [eligible](https://githu
 
 # Summary
 
-
+Based on the analysis we performed, there are some concerns and potential additional queries that we could do to provide more information. One concern is that there is a incredibly large amount of retirement-eligible employees that are senior members (Engineers and Staff), which amounts to 64%.  
